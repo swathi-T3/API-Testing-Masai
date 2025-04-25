@@ -1,6 +1,8 @@
 # API-Testing-Masai
 API Testing - demo application
 
+[My-Postman-WorkSpace](https://www.postman.com/orbital-module-observer-88105079/workspace/my-workspace)
+
 # 🧪 Dummy JSON Products API Testing - Postman Collection
 
 ## 📌 Objective
